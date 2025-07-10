@@ -77,9 +77,31 @@ CREATE TABLE students (
 - Email must match standard format.
 - Phone must be 10 digits.
 
-## 👤 Authors
+## 📋 Menu Options
 
-Developed by 
-BEDAGE SANKET SUNILKUMAR
-JAMDADE OMKAR ANANT
-NICHARE MALLIKARJUNE NANDKUMAR
+```
+===== Student Management System =====
+1. Add Student
+2. View All Students
+3. Search Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+```
+
+### Description of Each Option
+
+- **Add Student**: Enter student details including name, course, marks, email, and phone. Validates input before saving.
+- **View All Students**: Displays all students from the database.
+- **Search Student by ID**: Looks up a student by their unique ID and displays their details.
+- **Update Student**: Allows updating student details by ID.
+- **Delete Student**: Deletes a student from the database using their ID.
+- **Exit**: Exits the application.
+
+## 👤 Author
+
+Developed by MR. GAMING
+
+---
+
+Feel free to customize or extend the project!
