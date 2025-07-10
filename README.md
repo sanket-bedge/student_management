@@ -98,7 +98,7 @@ CREATE TABLE students (
 - **Delete Student**: Deletes a student from the database using their ID.
 - **Exit**: Exits the application.
 
-## 👤 Author
+## 👤 Authors
 
 Developed by
 1) BEDAGE SANKET SUNILKUMAR
