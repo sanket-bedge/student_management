@@ -100,8 +100,8 @@ CREATE TABLE students (
 
 ## 👤 Author
 
-Developed by MR. GAMING
-
----
-
-Feel free to customize or extend the project!
+Developed by
+1) BEDAGE SANKET SUNILKUMAR
+2) JAMDADE OMKAR ANANT
+3) NICHARE MALLIKARJUNE NANDKUMAR
+4) BORGAONKAR OMKAR IRESH
